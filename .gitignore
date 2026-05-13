@@ -1,0 +1,32 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Outputs (generated videos — too large for git)
+outputs/
+
+# Checkpoints
+*.ckpt
+*.pt
+*.pth
+*.safetensors
+
+# Zip files
+*.zip
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
